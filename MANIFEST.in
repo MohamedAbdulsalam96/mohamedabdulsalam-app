@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include mohamedabdulsalam *.css
+recursive-include mohamedabdulsalam *.csv
+recursive-include mohamedabdulsalam *.html
+recursive-include mohamedabdulsalam *.ico
+recursive-include mohamedabdulsalam *.js
+recursive-include mohamedabdulsalam *.json
+recursive-include mohamedabdulsalam *.md
+recursive-include mohamedabdulsalam *.png
+recursive-include mohamedabdulsalam *.py
+recursive-include mohamedabdulsalam *.svg
+recursive-include mohamedabdulsalam *.txt
+recursive-exclude mohamedabdulsalam *.pyc
